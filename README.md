@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas. <br><br>Me especializando como desenvolvedor Fullstack com foco em <strong>Java</strong> e <strong>Python</strong> com <strong>Inteligência Artificial aplicada</strong>..</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas. <br><br>Me especializando como desenvolvedor Fullstack Web com foco em <strong>Java</strong> e <strong>Python</strong> com <strong>Inteligência Artificial aplicada</strong>..</p>
 
 ###
 
